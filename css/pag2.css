@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding:0px;
+}
+p{  
+    margin-top: 100px;
+    text-align: center;
+    margin-top:50;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+    color: royalblue;
+}
+
+body {
+    background-image: url('../img/sala.jpg');
+}
+.btnpag2 {
+    text-align:center;
+    margin-top:50px;
+    
+
+  }
+#btnpag2 {
+     color:royalblue;
+}
